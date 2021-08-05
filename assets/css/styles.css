@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Cabin', sans-serif;
+  text-align: center;
+  
+  
+}
+
+body {
+  color: #373A3C;
+}
+
+.ricomida {
+  font-size: 40px;
+  font-family: 'Lobster', cursive;
+  
+}
+
+h1 {
+  font-size: 2.2em;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 35px;
+  font-weight: bold;
+}
+
+
+h3 {
+  font-size: 20px;
+  
+}
+
+h4 {
+  font-size: 1.4em;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li {
+  text-align: left;
+  font-size: 20px;
+}
+
+ul li a {
+  font-weight: 400;
+  font-size: 20px;
+}
+
+
+ol li {
+  text-align: left;
+  font-size: 20px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 16px;
+}
+
+.subtitulo b {
+  font-family: 'Lobster';
+}
+
+
+.h-divider {
+  margin-top:5px;
+  margin-bottom:5px;
+  height:1px;
+  width:100%;
+  border-top:2px solid rgb(0, 0, 0);
+}
+.slider {
+  width: 16em;
+}
+
+.txtjus {
+  text-align-last: justify;
+}
+
+.espacio {
+
+  height: 250px;
+  text-align: start;
+
+
+}
+.esp {
+
+  height: 50px;
+  border: 2px solid;
+}
+
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+  background-color: black;
+}
+.carousel-indicators {
+  bottom: -50px;
+}
+
+
+
+
+
+
+
+.botonletra {
+  height: 40px;
+  width: 135px;
+  color: #373A3C;
+  border-color: #DDDDDD;
+  font-size: 14px;
+}
+
+.boton2 {
+  width: 200px;
+}
+
+footer {
+  font-family: 'Lobster';
+  font-size: 40px;
+}
+
